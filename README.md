@@ -6,6 +6,7 @@ by [<ins>Nina Shvetsova</ins>](https://ninatu.github.io/),
 [<ins>Christian Rupprecht</ins>](https://chrirupp.github.io/).
 
 📄 [Project webpage](https://utd-project.github.io) | 📚 [arXiv preprint](https://arxiv.org/abs/2503.18637)
+
 ✨ The paper has been accepted at **CVPR 2025**!
 
 This repository will contain the **official implementation**.
