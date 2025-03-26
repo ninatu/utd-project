@@ -32,6 +32,6 @@ If you use our dataset or method, please cite:
 @inproceedings{shvetsova2025utd,
   title     = {Unbiasing through Textual Descriptions: Mitigating Representation Bias in Video Benchmarks},
   author    = {Shvetsova, Nina and Nagrani, Arsha and Schiele, Bernt and Kuehne, Hilde and Rupprecht, Christian},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   year      = {2025}
 }
