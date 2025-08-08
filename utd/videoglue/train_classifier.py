@@ -357,7 +357,7 @@ def main(args, ds_init):
         from internvid.viclip.viclip_vision_backbone import load_backbone
         backbone = load_backbone(args)
     elif args.backbone == 'videomamba':
-        from videomamba.sm_model.videomamba import load_backbone
+        from video_mamba.sm_model.videomamba import load_backbone
         backbone = load_backbone(args)
     elif args.backbone == 'allinone':
         from allinone.allinone_module import load_backbone
